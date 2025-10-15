@@ -2,6 +2,7 @@
 
 Font Awesome plugin for TinyMCE.
 
+![Font Awesome](/tfa.png)
 
 Requirement
 ---
