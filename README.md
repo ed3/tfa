@@ -7,8 +7,8 @@ Font Awesome plugin for TinyMCE.
 Requirement
 ---
 
-- TinyMCE 7.x
-- Font Awesome 6.7.2
+- [TinyMCE](https://www.tiny.cloud) 7.x
+- [Font Awesome](https://fontawesome.com) 6.7.2
 
 
 Configuration
