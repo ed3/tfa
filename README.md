@@ -22,7 +22,7 @@ Configuration
 tinymce.init({
 ...
 content_css:'/css/all.min.css',
-extended_valid_elements:'span[*]'
+extended_valid_elements:'#span[*]'
 ...
 });
 ```
